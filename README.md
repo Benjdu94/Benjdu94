@@ -4,13 +4,17 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Passionate about new technologies.
 
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
+- 🎓 &nbsp; Admitted to the Master "Expert in Development Full Stack" at the Ynov Campus, starting in October 2025.
 
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
+- 💼 &nbsp; Currently looking for a compagny for an alternance of 24 months (pace : two weeks in the company, one week in training)
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- 🌱 &nbsp; I explore and deeping my skills in front-end and back-end development.
+
+- 🚀 &nbsp; Always curious to learn new technologies and meet technical challenges.
+
+- 💡 &nbsp; Motivated by teamwork and knowledge sharing.
 
 
 
