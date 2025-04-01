@@ -35,10 +35,14 @@
 -->
 
 
-
 <h3>🛠 To Learn</h3>
 
 - 🔧 &nbsp; Java | Docker🐳 | ReactJS
+
+<h3>🛠 My Projects/h3>
+
+The project under development consists of the redesign of the website of the agency Vice versa, specialized in sign language translation. This project is part of an academic project in partnership with the company. Here is the link to site : https://www.vicetversa.fr/
+The codes under development can be found in the project folder, in my repositories.
 
 <hr>
 
