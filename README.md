@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Benjamin Lebreton/h2>
+### Hi there 👋<h2> I'm Benjamin Lebreton </h2>
 
 <h3> 👨🏻•💻 About Me </h3>
 
